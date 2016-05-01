@@ -1,0 +1,41 @@
+body {
+	margin: 75px 100px 75px 100px;
+}
+
+img {
+	width: 300px;
+}
+
+.content-border {
+	border: 2px solid lightgray;
+	border-radius: 5px;
+	padding: 5px 25px 30px 25px;
+	box-shadow: 0 10px 10px 2px lightgray;
+}
+
+.info-border {
+	border: 2px solid lightgray;
+	margin-top: 40px;
+	padding: 25px;
+}
+
+.info-title {
+	font-size: 40px;
+}
+
+.info-text {
+	font-size: 20px;
+}
+
+.info-text-italicized {
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+	font-style: normal;
+}
+
+ul {
+	list-style: none;
+}
